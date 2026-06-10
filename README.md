@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtonmoy0&label=Profile%20views&color=0e75b6&style=flat" alt="iamtonmoy0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamtonmoy0" alt="iamtonmoy0" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iamtonmoy0" target="blank"><img src="https://img.shields.io/twitter/follow/iamtonmoy0?logo=twitter&style=for-the-badge" alt="iamtonmoy0" /></a> </p>
 
