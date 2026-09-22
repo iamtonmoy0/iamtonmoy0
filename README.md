@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tonmoy;+Hands-on+Polyglot+Developer;Backend+Enthusiast+🚀+;Node.js,+Golang,+Javascript,+Express,+MongoDB,+Ruby,+TypeScript;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋,+I+am+Tonmoy;+Hands-on+Polyglot+Developer;Backend+Enthusiast+🚀+;Node.js,+Golang,+Javascript,+Express,+MongoDB,+Ruby,+TypeScript+React+Nextjs+Kotlin;)](https://git.io/typing-svg)
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <img src="./assets/gopher.png"  style="width:100%;height:400px ;align-items:center"/>
 
